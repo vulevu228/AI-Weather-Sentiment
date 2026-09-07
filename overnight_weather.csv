@@ -4655,3 +4655,5 @@ timestamp,temp_c,humidity_pct,pressure_hpa,wind_speed,description,
 2026-09-07 16:30:57,Hamburg,26.06,41,1014,4.63,scattered clouds
 2026-09-07 20:37:52,London,19.38,65,1015,6.69,overcast clouds
 2026-09-07 20:37:52,Hamburg,19.36,74,1013,5.66,overcast clouds
+2026-09-07 23:33:37,London,18.11,67,1014,5.14,overcast clouds
+2026-09-07 23:33:37,Hamburg,16.71,88,1013,1.54,overcast clouds
